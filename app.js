@@ -1,3 +1,9 @@
+console.log(`самооценка: 45 pts
+             все пункты выполнены в порядке, указанном в задании.
+             каждый пункт оформлен в отдельном коммите.
+             изменения выпонялись в ветке clean-code-s1e1
+
+`);
 //Document is the DOM can be accessed in the console with document.window.
 // Tree is from the top, html, body, p etc.
 
