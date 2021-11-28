@@ -49,15 +49,20 @@
   padding: 0px;
 }
 
-.list-item, .list-name {
+.list-item,
+.list-name {
   list-style: none;
 }
 
-.task,.edit-btn,.delete-btn,.add-btn {
+.task,.edit-btn,
+.delete-btn,
+.add-btn {
   outline: none;
 }
 
-.edit-btn,.delete-btn,.add-btn {
+.edit-btn,
+.delete-btn,
+.add-btn {
   background: none;
   border: 0px;
   color: #888;
@@ -67,7 +72,9 @@
   cursor: pointer;
 }
 
-.edit-btn:hover,.delete-btn:hover,.add-btn:hover {
+.edit-btn:hover,
+.delete-btn:hover,
+.add-btn:hover {
   color: #3a3a3a;
 }
 
